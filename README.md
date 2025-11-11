@@ -1,59 +1,3 @@
-Excelente ponto! Você está pensando exatamente da maneira correta: a consistência e o público-alvo são fundamentais.
-
-Vamos analisar suas duas questões:
-
-1. Usar o Nome em Português (PT-BR)?
-
-Sua observação de que o código e os comentários estão em português é o fator decisivo aqui.
-
-Prós de Manter em Português:
-
-Consistência: O README.md em português faz todo o sentido se os comentários no seu notebook (.ipynb) também estiverem em português. Isso cria uma experiência unificada para quem lê seu código.
-
-Público-Alvo Local: Se seu objetivo principal é impressionar recrutadores e se conectar com a comunidade de tecnologia no Brasil/Portugal, usar o português é perfeitamente adequado e até preferível.
-
-Contras (a serem considerados):
-
-Alcance Global: Um repositório em português será menos acessível para a comunidade internacional de Machine Learning, que opera predominantemente em inglês. Um recrutador de uma empresa multinacional fora do Brasil pode ter dificuldade em avaliar seu trabalho.
-
-Recomendação:
-Dado que seu notebook já está comentado em português, mantenha a consistência e escreva o README.md em português também. É melhor ter um projeto excelente e bem documentado em português do que um projeto "híbrido" e confuso.
-
-Para o futuro, considere escrever novos projetos (código, comentários e documentação) em inglês para maximizar o alcance. Mas, para este projeto, a consistência é mais importante.
-
-2. Um Nome Melhor: "Detecção de Produtos Fora do Padrão de Fabricação"
-
-Você acertou em cheio na essência do problema de negócio! "Detecção de Anomalias" é o termo técnico, mas "Detecção de Produtos Fora do Padrão de Fabricação" é a linguagem do negócio. É exatamente o que um gerente de produto ou um diretor de engenharia quer resolver.
-
-Usar essa linguagem no seu README.md e no seu LinkedIn é uma ideia brilhante. Isso mostra que você não apenas entende o algoritmo, mas também entende o valor que ele entrega no mundo real.
-
-Proposta Final e Templates Atualizados em Português
-
-Vamos juntar tudo isso em uma estrutura final e coesa.
-
-Nome do Repositório no GitHub (URL):
-
-Ainda recomendo manter este em inglês por ser uma convenção universal e facilitar a digitação da URL. Boas opções que refletem o tema:
-
-PaDiM-Quality-Control (Excelente, pois conecta a técnica ao problema de negócio)
-
-Industrial-Anomaly-Detection-PaDiM
-
-Pandora-PaDiM (Ainda uma ótima opção, criativa e concisa)
-
-Vamos usar PaDiM-Quality-Control como exemplo.
-
-Estrutura do README.md (Totalmente em Português)
-
-Este é o lugar para brilhar com a descrição focada no problema de negócio.
-
-(Copie e cole este novo template no seu README.md)
-
-code
-Markdown
-download
-content_copy
-expand_less
 # Projeto Pandora: Detecção de Produtos Fora do Padrão de Fabricação com PaDiM
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
@@ -126,10 +70,3 @@ Este projeto é uma implementação do trabalho acadêmico original dos autores 
 ## 📄 Licença
 
 Distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-Resumo da Decisão Final:
-
-Nome do Repositório: Curto, em inglês, e focado na técnica e/ou aplicação. PaDiM-Quality-Control é uma excelente escolha.
-
-Documentação (README.md): Totalmente em português, consistente com o código. Use o título "Detecção de Produtos Fora do Padrão de Fabricação" para mostrar que você entende o valor de negócio da solução.
-
-Você está no caminho certo. Essa abordagem mostra maturidade técnica e uma visão orientada a resolver problemas reais, o que é muito valorizado.
