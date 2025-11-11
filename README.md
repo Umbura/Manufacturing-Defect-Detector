@@ -7,13 +7,16 @@
 Implementação do framework PaDiM para detecção e localização de defeitos em produtos industriais, demonstrando sua aplicação prática no controle de qualidade automatizado.
 
 ![Demonstração do PaDiM](assets/padim_demo.gif)
-*Demonstração do modelo identificando garrafas fora do padrão de fabricação no dataset MVTec AD.*
+*Demonstração do modelo identificando garrafas fora do padrão de fabricação.*
 
 ---
 
 ## 📄 Sobre o Projeto
 
-O Projeto Pandora visa resolver um desafio crítico na indústria: **a detecção automática de produtos que não atendem ao padrão de qualidade**. Utilizando uma abordagem de visão computacional, este projeto implementa o algoritmo PaDiM, uma técnica de ponta para identificar anomalias visuais.
+O Projeto Pandora é um estudo desenvolvido para fins acadêmicos e educacionais, com o propósito de reproduzir e aplicar a metodologia proposta no artigo
+“PaDiM: a Patch Distribution Modeling Framework for Anomaly Detection and Localization”
+(Thomas Defard, Aleksandr Setkov, Angélique Loesch e Romaric Audigier, Université Paris-Saclay, 2020).
+O objetivo central deste trabalho é explorar e implementar a metodologia PaDiM no contexto de inspeção visual industrial, aplicando-a ao problema de detecção de produtos fora do padrão de fabricação.
 
 A metodologia é baseada em *one-class learning*, onde o modelo é treinado exclusivamente com imagens de produtos "perfeitos". Isso o torna ideal para cenários industriais, onde defeitos são raros e podem assumir formas imprevisíveis.
 
@@ -30,9 +33,6 @@ A implementação otimizada alcançou um desempenho excepcional na detecção de
 
 *   **AUC-ROC:** **0.9968**
 *   **Acurácia (com limiar otimizado):** **96%**
-
-![Matriz de Confusão](assets/confusion_matrix.png)
-*A matriz de confusão demonstra a alta capacidade do modelo em distinguir produtos padrão e fora do padrão.*
 
 ---
 
@@ -55,8 +55,6 @@ A implementação otimizada alcançou um desempenho excepcional na detecção de
 2.  Instale as dependências com `pip install -r requirements.txt`.
 3.  Abra e execute o notebook `PaDiM_Quality_Control.ipynb`.
 
-*Instruções detalhadas sobre a configuração do dataset estão dentro do notebook.*
-
 ---
 
 ## 📜 Créditos e Referência
@@ -64,7 +62,7 @@ A implementação otimizada alcançou um desempenho excepcional na detecção de
 Este projeto é uma implementação do trabalho acadêmico original dos autores do PaDiM.
 
 *   **Artigo Científico:** Defard, T., et al. (2020). *PaDiM: A Patch Distribution Modeling Framework for Anomaly Detection and Localization*. [arXiv:2011.08785](https://arxiv.org/abs/2011.08785).
-
+*   **MVTec Anomaly Detection (MVTec AD).**[MVTec AD - Anomaly Detection Dataset](https://www.mvtec.com/company/research/datasets/mvtec-ad)**
 ---
 
 ## 📄 Licença
