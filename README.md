@@ -32,7 +32,7 @@ Este repositório contém o notebook com a implementação completa em Python, T
 A implementação otimizada alcançou um desempenho excepcional na detecção de garrafas com defeito:
 
 *   **AUC-ROC:** **0.9968**
-*   **Acurácia (com limiar otimizado):** **96%**
+*   **Acurácia (com limiar otimizado):** **98%**
 
 ---
 
