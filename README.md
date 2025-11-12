@@ -1,4 +1,4 @@
-# Projeto Pandora: Detecção de Produtos Fora do Padrão de Fabricação com PaDiM
+# Detecção de Produtos Fora do Padrão de Fabricação com PaDiM
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-orange.svg)
