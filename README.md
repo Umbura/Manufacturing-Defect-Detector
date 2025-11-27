@@ -51,7 +51,7 @@ The optimized implementation achieved exceptional performance in detecting defec
   <p><em>Visualization of heatmaps indicating the exact location of anomalies.</em></p>
 </div>
 
-> *Note: During the testing phases, I named the program Pandora. Initially, I tried using only CNN for detection, and the result was an F1 score of 0.76 for the Good category and 0.90 for Anomaly. While this is not a bad result, considering an industrial application, it is poor, as the company would essentially be wasting money.
+> *Note: During the testing phases, I named the program Pandora. Initially, I tried using only CNN for detection, and the result was an F1 score of 0.76 for the Good category and 0.90 for Anomaly. While this is not a bad result, considering an industrial application, it is poor, as the company would essentially be wasting money.*
 
 ---
 
