@@ -71,7 +71,7 @@ The optimized implementation achieved exceptional performance in detecting defec
 ### Installation and Execution
 1.  **Clone this repository:**
     ```bash
-    git clone https://github.com/Umbura/Deteccao-de-Produtos-Fora-do-Padrao-de-Fabricacao.git
+    git clone https://github.com/Umbura/Manufacturing-Defect-Detector.git
     ```
 2.  **Install dependencies:**
     ```bash
