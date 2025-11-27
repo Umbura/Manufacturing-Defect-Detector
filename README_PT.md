@@ -51,6 +51,7 @@ A implementação otimizada alcançou um desempenho excepcional na detecção de
   <p><em>Visualização das máscaras de calor indicando a localização exata das anomalias.</em></p>
 </div>
 
+> *Nota: Durante a fases de testes batizei o programa de Pandora. Onde inicialmente, tente utilizar apenas CNN para a detecção o resultado foi de F1- 0.76 na categoria Good e 0.90 em anomaly. O que não é um resultado ruim, mas considerando uma aplicação em industria é pessimo, pois a empresa estaria jogando dinheiro fora.
 ---
 
 ## Tecnologias Utilizadas
